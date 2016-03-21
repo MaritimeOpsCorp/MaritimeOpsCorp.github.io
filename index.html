@@ -40,8 +40,6 @@ function f(){
   var cols = window.innerWidth >= 890 ? 2 : 1;
   if (columns === cols) { return; }
   columns = cols;
-  // if (cols === 2) console.log('switch to multi-column');
-  // else            console.log('switch to single-column');
 
   var posts = document.getElementById('recent-posts');
   var childNodes = posts.childNodes, i, L = childNodes.length, node, h,
