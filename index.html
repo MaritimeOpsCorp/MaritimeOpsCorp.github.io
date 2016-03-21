@@ -114,11 +114,6 @@ function f(){
 function setup(){
   f();
   var onresize = f;
-  // var timer = null;
-  // function onresize() {
-  //   if (timer !== null) { return; }
-  //   timer = setTimeout(function(){ timer = null; f(); }, 100);
-  // }
   if (window.addEventListener) {
     window.addEventListener('resize', onresize);
   } else {
