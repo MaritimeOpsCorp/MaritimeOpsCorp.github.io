@@ -12,7 +12,7 @@ redirect_from: ["/2007/04/21/aperture-153-released.html"]
 Aperture 1.5.3 addresses issues related to overall reliability and performance in a number of areas, including:
 <ul>
 	<li>Generation of thumbnails for adjusted images</li>
-	<li>Entering and exiting Full Screen mode</li>
+	<li>Entering and exiting Full Screen mode </li>
 	<li>Working with large sets of keywords in the Keywords HUD</li>
 	<li>Restoring from a vault</li>
 </ul>
