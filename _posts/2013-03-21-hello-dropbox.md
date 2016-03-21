@@ -1,6 +1,7 @@
 ---
 title: "Hello, Dropbox"
-description: "I'm very excited to let you know that I'm joining Dropbox. After two years at Facebook I couldn't be more proud. Proud to have been part of something as important as Facebook and proud of the work I've done with shaping the future of mobile communication. It's truly been a fantastic time of my life. At Dropbox I'm going to work hard to make all our lives better. Remove friction from technical details in our modern daily lives, and relieve us from worrying about our 'stuff' — from quick snapshots and hasty notes to precious memories."
+description: "The MaritimeOpsCorp.com web site is undergoing some massive redesing.  In the mean time please see our <a title="Facebook Page" href="https://www.facebook.com/MaritimeOpsCorp/">Facebook Page</a> for current information.
+"
 og_image_url: "https://farm9.staticflickr.com/8225/8580803186_ccf9d4337b_o.png"
 layout: post
 tags: facebook, dropbox
